@@ -1,2 +1,2 @@
 # PokemonApp
-JAVA, Spring Boot and JAVAFX
+JAVA, Spring Boot, JAVAFX, JUNIT 
